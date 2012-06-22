@@ -1,0 +1,9 @@
+name Ramble_Spite
+armour 627
+dexterity 87
+vitality 66
+poisonResis 49
+allResis 59
+ItemType IT_PANTS
+cost 900000
+strength 66

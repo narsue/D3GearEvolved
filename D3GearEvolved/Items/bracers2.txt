@@ -1,0 +1,10 @@
+name Lacuni_Prowlers
+armour 132
+dexterity 46
+vitality 39
+attackSpeed 12
+moveSpeed 6
+meleeHit 116
+ItemType IT_BRACERS
+pickupRange 7
+cost 3000000

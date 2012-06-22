@@ -1,0 +1,7 @@
+name Foe's_Gaze
+dexterity 82
+allResis 69
+armour 706
+critChance 3.5
+ItemType IT_HELM
+cost 1000000

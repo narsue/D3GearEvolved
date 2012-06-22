@@ -1,0 +1,9 @@
+name Undaunted_Wraps
+armour 686
+dexterity 79
+allResis 75
+poisonResis 57
+ItemType IT_PANTS
+cost 240000
+meleeHit 1334
+goldFind 13

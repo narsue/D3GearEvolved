@@ -1,0 +1,8 @@
+name The_Signet
+ItemType IT_RING
+attackSpeed 16
+critDamage 34
+cost 40000000
+dexterity 67
+intelligence 46
+coldResis 42

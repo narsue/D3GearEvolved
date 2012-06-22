@@ -1,0 +1,11 @@
+name Austere_Glory
+minDamage 350
+maxDamage 869
+attackSpeed 1.4
+vitality 129
+ItemType IT_WEAPON
+type m
+SubType ST_MONK_FIST_WEAPON
+lifeOnHit 804
+spiritRegen 1.98
+cost 5500000

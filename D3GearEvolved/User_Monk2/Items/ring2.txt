@@ -1,0 +1,4 @@
+name Spectral_Ring_Of_Pain
+dexterity 75
+resisAll 47
+ItemType IT_RING

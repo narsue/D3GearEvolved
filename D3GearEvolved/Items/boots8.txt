@@ -1,0 +1,8 @@
+name Stalwart_GoundPounders
+armour 414
+dexterity 223
+intelligence 29
+poisonResis 42
+ItemType IT_BOOTS
+cost 100000
+vitality 77

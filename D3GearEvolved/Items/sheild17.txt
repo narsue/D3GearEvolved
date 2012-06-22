@@ -1,0 +1,10 @@
+name Juggernaught_Poise
+dexterity 137
+ItemType IT_OFFHAND
+SubType ST_SHIELD
+minBlock 2795
+maxBlock 3705
+blockChance 12
+armour 980
+cost 800000
+critChance 8.5

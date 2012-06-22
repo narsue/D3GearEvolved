@@ -1,0 +1,8 @@
+name Reckless_Bauble
+dexterity 83
+poisonResist 34
+allResis 60
+armour 340
+critChance 3.5
+ItemType IT_HELM
+cost 300000

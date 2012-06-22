@@ -1,0 +1,8 @@
+name The_Eye
+armour 292
+dexterity 124
+socket 3
+intelligence 44
+pickupRadius 7
+lifePerSecond 45
+ItemType IT_CHEST

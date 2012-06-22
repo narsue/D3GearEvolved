@@ -1,0 +1,8 @@
+name Socketed_Arch_Axe_Of_The_Heavens
+minDamage 436
+maxDamage 946
+attackSpeed 1.3
+ItemType IT_WEAPON
+type m
+socket 1
+cost 800000

@@ -1,0 +1,9 @@
+name Watchful_Arts
+dexterity 88
+strength 84
+allResis 64
+armour 392
+goldFind 17
+critChance 4.5
+ItemType IT_HELM
+cost 1000000

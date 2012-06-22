@@ -1,0 +1,8 @@
+name Archery_Arts
+dexterity 170
+socket 1
+attackSpeed 13
+intelligence 141
+ItemType IT_OFFHAND_QUIVER
+cost 2000000
+SubType ST_QUIVER

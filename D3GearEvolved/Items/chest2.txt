@@ -1,0 +1,9 @@
+name Forgotten_Guise
+armour 720
+dexterity 84
+intelligence 84
+socket 1
+poisonResis 32
+resisAll 57
+ItemType IT_CHEST
+cost 315000

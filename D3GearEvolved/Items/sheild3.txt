@@ -1,0 +1,14 @@
+name Chivilry_Prowess
+dexterity 169
+critChance 8.5
+ItemType IT_OFFHAND
+SubType ST_SHIELD
+minBlock 3706
+maxBlock 4706
+blockChance 18
+armour 1131
+meleeReduce 3
+lifePerSec 242
+intelligence 54
+poisonResis 53
+cost 1200000

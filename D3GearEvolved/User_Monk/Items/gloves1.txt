@@ -1,0 +1,7 @@
+name Choke_Craft
+dexterity 141
+intelligence 124
+poisonResis 44
+resisAll 49
+armour 273
+ItemType IT_GLOVES

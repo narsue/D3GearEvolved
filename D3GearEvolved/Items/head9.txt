@@ -1,0 +1,9 @@
+name Scowling_Knack
+dexterity 151
+strength 31
+poisonResist 41
+vitality 76
+armour 327
+socket 1
+ItemType IT_HELM
+cost 1600000

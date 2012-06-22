@@ -1,0 +1,9 @@
+name Brutal_Shot
+minDamage 829
+maxDamage 1236
+attackSpeed 1.1
+strength 186
+cost 10000000
+type x
+ItemType IT_WEAPON
+socket 1

@@ -1,0 +1,5 @@
+name Deadly_Amulet_Of_Malice
+minDamage 26
+maxDamage 52
+critDamage 64
+ItemType IT_AMULET

@@ -1,0 +1,10 @@
+name Knights_Shelter
+armour 278
+dexterity 109
+strength 24
+poisonResis 29
+allResis 32
+socket 3
+ItemType IT_CHEST
+cost 700000
+healthGlobes 684

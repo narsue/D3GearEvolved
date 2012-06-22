@@ -1,0 +1,8 @@
+name Andaunted_Vow
+attackSpeed 6
+fireResis 15
+resisAll 16
+lifeOnHit 73
+healthGlobes 1807
+lifePerSecond 36
+ItemType IT_RING

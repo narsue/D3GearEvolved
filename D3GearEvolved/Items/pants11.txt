@@ -1,0 +1,9 @@
+name Resilent_Links
+armour 789
+dexterity 75
+allResis 72
+intelligence 71
+poisonResis 44
+ItemType IT_PANTS
+cost 1200000
+vitality 43

@@ -1,0 +1,8 @@
+name Rogue_Impunity
+armour 474
+dexterity 135
+intelligence 110
+allResis  67
+poisonResis 47
+ItemType IT_BELT
+cost 500000

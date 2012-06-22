@@ -1,0 +1,8 @@
+name Intrepid_Boon
+armour 153
+dexterity 112
+vitality 101
+fireResis 35
+resisAll 26
+critChance 2.5
+ItemType IT_BRACERS

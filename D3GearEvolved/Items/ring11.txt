@@ -1,0 +1,9 @@
+name The_Craft
+ItemType IT_RING
+dexterity 120
+intelligence 46
+critDamage 31
+arcaneResis 33
+lifeOnKill 405
+lifePerSec 46
+cost 1000000

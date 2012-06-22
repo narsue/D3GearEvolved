@@ -1,0 +1,8 @@
+name Haste_Stem
+minDamage 259
+maxDamage 770
+attackSpeed 1.97
+cost 5000000
+type h
+ItemType IT_WEAPON
+socket 1

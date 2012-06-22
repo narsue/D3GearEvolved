@@ -1,0 +1,7 @@
+name Dire_Robes
+armour 423
+dexterity 159
+vitality 180
+poisonResis 44
+ItemType IT_PANTS
+cost 550000

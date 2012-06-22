@@ -1,0 +1,9 @@
+name Target_Restraints
+armour 374
+dexterity 119
+intelligence 52
+poisonResis 40
+resisAll 69
+poisonResis 42
+ItemType IT_BRACERS
+cost 750000

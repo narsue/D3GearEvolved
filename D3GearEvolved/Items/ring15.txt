@@ -1,0 +1,8 @@
+name Fatal_Faze
+ItemType IT_RING
+dexterity 76
+attackSpeed 6
+cost 450000
+minDamage 20
+maxDamage 37
+poisonResis 26

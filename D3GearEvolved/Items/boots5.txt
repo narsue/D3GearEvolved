@@ -1,0 +1,8 @@
+name Ramble_Aim
+armour 280
+dexterity 232
+vitality 73
+allResis 69
+physicalResis 48
+ItemType IT_BOOTS
+cost 2000000

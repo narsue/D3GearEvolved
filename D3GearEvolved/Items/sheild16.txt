@@ -1,0 +1,13 @@
+name War_Defiance
+dexterity 70
+ItemType IT_OFFHAND
+SubType ST_SHIELD
+minBlock 1960
+maxBlock 2794
+blockChance 19
+armour 903
+cost 100000
+life 12
+socket 1
+allResis 50
+lifePerSec 150

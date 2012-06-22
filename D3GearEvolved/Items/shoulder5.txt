@@ -1,0 +1,8 @@
+name Reflective_Gardbrace
+strength 144
+dexterity 141
+armour 320
+poisonResis 42
+allResis 62
+ItemType IT_SHOULDER
+cost 550000

@@ -1,0 +1,8 @@
+name Abyssal_Stone
+dexterity 81
+resisAll 60
+armour 405
+goldFind 19
+socket 1
+ItemType IT_HELM
+life 5

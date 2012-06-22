@@ -1,0 +1,9 @@
+name Fatal_Lantern
+dexterity 43
+strength 40
+ItemType IT_RING
+maxDamage 9
+critDamage 21
+critChance 4
+cost 2000000
+armour 198

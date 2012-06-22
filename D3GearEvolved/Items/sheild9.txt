@@ -1,0 +1,12 @@
+name Harbor_Downfall
+dexterity 136
+intelligence 47
+ItemType IT_OFFHAND
+SubType ST_SHIELD
+minBlock 3706
+maxBlock 4706
+blockChance 10
+armour 1111
+cost 300000
+life 9
+critChance 7

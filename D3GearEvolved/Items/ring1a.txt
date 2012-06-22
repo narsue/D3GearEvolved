@@ -1,0 +1,4 @@
+name Assailing_Ring_Of_Cruelty
+dexterity 62
+attackSpeed 7
+ItemType IT_RING

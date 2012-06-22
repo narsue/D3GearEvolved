@@ -1,0 +1,9 @@
+name War_Flight
+minDamage 732
+maxDamage 1225
+attackSpeed 1.1
+cost 4000000
+type x
+ItemType IT_WEAPON
+critDamage 54
+dexterity 142

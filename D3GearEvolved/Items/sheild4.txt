@@ -1,0 +1,11 @@
+name Living_Fortress
+dexterity 144
+vitality 146
+critChance 8.5
+ItemType IT_OFFHAND
+SubType ST_SHIELD
+minBlock 3706
+maxBlock 4706
+blockChance 14
+armour 1116
+cost 1200000

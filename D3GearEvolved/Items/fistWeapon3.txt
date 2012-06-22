@@ -1,0 +1,9 @@
+name Ruthless_Force
+minDamage 450
+maxDamage 1044
+attackSpeed 1.2
+ItemType IT_WEAPON
+type m
+socket 1
+critDamage 63
+cost 600000

@@ -1,0 +1,10 @@
+name Andariel's_Visage
+dexterity 115
+attackSpeed 12
+lifePerSec 83
+armour 274
+ItemType IT_HELM
+poisonResis 34
+critChance 3.0
+healthGlobe 760
+cost 1500000

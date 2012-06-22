@@ -1,0 +1,8 @@
+name The_Aim
+armour 410
+dexterity 73
+vitality 95
+poisonResis 48
+resisAll 71
+ItemType IT_CHEST
+cost 500000

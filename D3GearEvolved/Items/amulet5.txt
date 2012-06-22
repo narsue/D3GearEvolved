@@ -1,0 +1,9 @@
+name Gambler's_Ash
+dexterity 130
+critDamage 60
+socket 1
+goldFind 28
+minDamage 10
+maxDamage 22
+ItemType IT_AMULET
+cost 4500000

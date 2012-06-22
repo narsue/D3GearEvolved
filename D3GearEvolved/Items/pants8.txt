@@ -1,0 +1,9 @@
+name Reckless_Boon
+armour 286
+dexterity 73
+intelligence 64
+poisonResis 39
+allResis 50
+ItemType IT_PANTS
+cost 145000
+pickupRange 6

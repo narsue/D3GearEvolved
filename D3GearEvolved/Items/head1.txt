@@ -1,0 +1,10 @@
+name Andariel's_Visage
+dexterity 34
+intelligence 118
+vitality 65
+poisonResist 31
+lifePerSecond 93
+attackSpeed 6
+critChance 3
+armour 283
+ItemType IT_HELM

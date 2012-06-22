@@ -1,0 +1,10 @@
+name Crystal_Immunity
+dexterity 144
+strength 44
+armour 329
+ItemType IT_HELM
+SubType ST_MONK_HELM
+poisonResis 44
+allResis 52
+socket 1
+cost 300000

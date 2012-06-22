@@ -1,0 +1,7 @@
+name Haste_Star
+dexterity 113
+critDamage 34
+attackSpeed 15
+minDamage 15
+ItemType IT_AMULET
+cost 5000000

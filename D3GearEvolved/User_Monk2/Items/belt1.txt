@@ -1,0 +1,7 @@
+name Devil's_Brace
+armour 276
+dexterity 94
+strength 103
+fireResis 50
+resisAll 78
+ItemType IT_BELT

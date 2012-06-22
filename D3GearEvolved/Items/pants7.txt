@@ -1,0 +1,9 @@
+name Hunters_Bounders
+armour 330
+dexterity 127
+vitality 56
+poisonResis 37
+allResis 42
+ItemType IT_PANTS
+cost 220000
+socket 2

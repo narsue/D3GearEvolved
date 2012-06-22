@@ -1,0 +1,8 @@
+name Royalty_Shelter
+dexterity 108
+vitality 98
+fireResist 28
+allResis 27
+lifeOnHit 100
+socket 1
+ItemType IT_AMULET

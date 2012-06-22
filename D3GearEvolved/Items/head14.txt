@@ -1,0 +1,10 @@
+name Cleansing_Veil
+dexterity 86
+poisonResis 56
+armour 400
+strength 73
+intelligence 159
+vitality 26
+critChance 3.5
+ItemType IT_HELM
+cost 450000

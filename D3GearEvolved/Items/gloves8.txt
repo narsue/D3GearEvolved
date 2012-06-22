@@ -1,0 +1,10 @@
+name Strangle_Remnant
+armour 280
+dexterity 153
+allResis 59
+intelligence 137
+fireResis 8
+attackSpeed 8
+ItemType IT_GLOVES
+cost 1250000
+healthGlobes 5282

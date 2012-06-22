@@ -1,0 +1,6 @@
+name 1_Hand_Bow
+minDamage 500
+maxDamage 540
+attackSpeed 1.888
+type handcrossbow
+ItemType IT_WEAPON

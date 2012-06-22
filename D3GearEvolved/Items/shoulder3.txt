@@ -1,0 +1,8 @@
+name Apothecary's_Sentinel
+dexterity 130
+armour 508
+intelligence 31
+poisonResis 47
+allResis 60
+ItemType IT_SHOULDER
+cost 1000000

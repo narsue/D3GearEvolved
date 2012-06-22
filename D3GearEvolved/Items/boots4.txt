@@ -1,0 +1,7 @@
+name Bullseye_Kicks
+armour 284
+dexterity 252
+vitality 81
+allResis 66
+ItemType IT_BOOTS
+cost 1400000

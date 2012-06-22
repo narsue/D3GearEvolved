@@ -1,0 +1,13 @@
+name Prudent_Rampart
+dexterity 144
+vitality 54
+ItemType IT_OFFHAND
+SubType ST_SHIELD
+minBlock 3706
+maxBlock 4706
+blockChance 11
+armour 1078
+cost 530000
+allResis 75
+critChance 6
+meleeHit 2424

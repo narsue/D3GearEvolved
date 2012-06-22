@@ -1,0 +1,9 @@
+name Vindicator's_Insult
+minDamage 280
+maxDamage 722
+attackSpeed 1.6
+type handcrossbow
+ItemType IT_WEAPON
+cost 4000000
+socket 1
+critDamage 100

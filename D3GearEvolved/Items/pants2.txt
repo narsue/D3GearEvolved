@@ -1,0 +1,7 @@
+name Rift_Guard
+armour 518
+dexterity 172
+intelligence 79
+ItemType IT_PANTS
+cost 3000000
+socket 2

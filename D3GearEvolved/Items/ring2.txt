@@ -1,0 +1,8 @@
+name Goath_Grasp
+dexterity 77
+ItemType IT_RING
+socket 1
+maxDamage 10
+critDamage 31
+lifePerSecond 82
+cost 3000000

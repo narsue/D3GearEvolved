@@ -1,0 +1,11 @@
+name Fitted_Shelter
+dexterity 156
+vitality 71
+ItemType IT_OFFHAND
+SubType ST_SHIELD
+minBlock 2795
+maxBlock 3705
+blockChance 12
+armour 1189
+cost 900000
+life 10

@@ -1,0 +1,9 @@
+name Rising_Traps
+dexterity 76
+strength 75
+critChance 8.5
+attackSpeed 17
+lifePerSecond 214
+goldFind 14
+armour 280
+ItemType IT_GLOVES

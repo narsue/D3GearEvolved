@@ -1,0 +1,8 @@
+name Horizontal_Vault
+armour 328
+dexterity 134
+allResis 60
+ItemType IT_PANTS
+cost 755000
+vitality 67
+socket 2

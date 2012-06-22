@@ -1,0 +1,7 @@
+name Insolent_Kicks
+armour 417
+dexterity 220
+poisonResis 46
+ItemType IT_BOOTS
+cost 700000
+vitality 148

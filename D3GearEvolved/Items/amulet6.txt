@@ -1,0 +1,5 @@
+name ASsailing_Amulet_Of_Pain
+dexterity 104
+attackSpeed 8
+ItemType IT_AMULET
+cost 500000

@@ -1,0 +1,7 @@
+name 1200_dps_bow
+minDamage 366
+maxDamage 1008
+attackSpeed 1.75
+cost 5000000
+type b
+ItemType IT_WEAPON

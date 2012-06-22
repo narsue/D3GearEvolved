@@ -1,0 +1,8 @@
+name 1_Hand_Bow
+minDamage 259
+maxDamage 770
+attackSpeed 1.97
+type handcrossbow
+ItemType IT_WEAPON
+cost 7000000
+socket 1

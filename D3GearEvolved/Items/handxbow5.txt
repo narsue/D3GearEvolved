@@ -1,0 +1,9 @@
+name Forest_Dragon
+minDamage 300
+maxDamage 921
+attackSpeed 1.6
+type handcrossbow
+ItemType IT_WEAPON
+cost 150000000
+socket 1
+critDamage 64

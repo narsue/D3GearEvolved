@@ -1,0 +1,12 @@
+name Chivalry_Prism
+dexterity 100
+life 9
+ItemType IT_OFFHAND
+SubType ST_SHIELD
+minBlock 3706
+maxBlock 4706
+blockChance 19
+armour 1157
+cost 250000
+allResis 55
+lifePerSec 235

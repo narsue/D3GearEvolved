@@ -1,0 +1,8 @@
+name Paragon's_Device
+armour 350
+dexterity 68
+vitality 133
+poisonResis 44
+socket 2
+ItemType IT_CHEST
+cost 300000

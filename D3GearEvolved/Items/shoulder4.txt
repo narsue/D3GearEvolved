@@ -1,0 +1,8 @@
+name Vice_Spaulders
+strength 197
+dexterity 142
+armour 340
+poisonResis 46
+allResis 56
+ItemType IT_SHOULDER
+cost 900000

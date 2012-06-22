@@ -1,0 +1,10 @@
+name Bowman's_Torment
+minDamage 300
+maxDamage 1059
+attackSpeed 1.4
+dexterity 103
+intelligence 119
+strength 147
+socket 1
+type b
+ItemType IT_WEAPON

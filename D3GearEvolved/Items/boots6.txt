@@ -1,0 +1,8 @@
+name Mortal_Groundpounders
+armour 262
+dexterity 200
+allResis 41
+lightningResis 33
+ItemType IT_BOOTS
+cost 155000
+vitality 136

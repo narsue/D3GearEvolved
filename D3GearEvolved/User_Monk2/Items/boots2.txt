@@ -1,0 +1,8 @@
+name Courier_Goliath
+armour 287
+strength 87
+dexterity 169
+vitality 149
+intelligence 34
+fireResis 46
+ItemType IT_BOOTS

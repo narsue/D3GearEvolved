@@ -1,0 +1,7 @@
+name Vital_Wraps
+dexterity 196
+vitality 130
+resisAll 43
+armour 270
+ItemType IT_GLOVES
+pickupRange 5

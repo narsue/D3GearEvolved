@@ -1,0 +1,8 @@
+name Target_Conqueror
+minDamage 276
+maxDamage 866
+attackSpeed 1.94
+cost 3000000
+intelligence 169
+ItemType IT_WEAPON
+type h

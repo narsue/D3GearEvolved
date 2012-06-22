@@ -1,0 +1,7 @@
+name Socketed_Rune_Sword_Of_Incineration
+minDamage 387
+maxDamage 794
+attackSpeed 1.4
+ItemType IT_WEAPON
+type m
+socket 1

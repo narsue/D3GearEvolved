@@ -1,0 +1,9 @@
+name Valiant_Gear
+intelligence 60
+dexterity 39
+vitality 70
+armour 262
+resisAll 41
+poisonResis 39
+ItemType IT_SHOULDER
+lifePerSec 12

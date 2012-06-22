@@ -1,0 +1,8 @@
+name Stout_Plate
+dexterity 152
+intelligence 60
+poisonResist 42
+armour 504
+socket 1
+ItemType IT_HELM
+cost 1000000

@@ -1,0 +1,9 @@
+name Urgent_Grapplers
+armour 215
+dexterity 164
+poisonResis 48
+vitality 67
+resisAll 48
+ItemType IT_BRACERS
+cost 400000
+critChance 3

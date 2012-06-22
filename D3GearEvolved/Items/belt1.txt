@@ -1,0 +1,5 @@
+name Wild_Sheath_Of_Pain
+armour 185
+dexterity 144
+vitality 67
+ItemType IT_BELT

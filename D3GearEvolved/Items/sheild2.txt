@@ -1,0 +1,12 @@
+name Cunning_Gate
+dexterity 157
+vitality 100
+critChance 8
+ItemType IT_OFFHAND
+SubType ST_SHIELD
+minBlock 3706
+maxBlock 4706
+blockChance 10
+armour 1125
+meleeHit 85
+cost 1000000

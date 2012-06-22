@@ -1,0 +1,10 @@
+name Signet_Rebel
+ItemType IT_RING
+dexterity 122
+strength 74
+intelligence 101
+critDamage 30
+minDamage 11
+maxDamage 21
+
+cost 1500000

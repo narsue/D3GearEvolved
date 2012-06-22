@@ -1,0 +1,7 @@
+name Shattered_Testimony
+ItemType IT_RING
+attackSpeed 15
+critChance 4.5
+cost 2000000
+lifeOnKill 438
+arcaneResis 29

@@ -1,0 +1,8 @@
+name Vanguard_Alacrity
+dexterity 138
+strength 60
+resisAll 50
+fireResis 29
+vitality 89
+armour 360
+ItemType IT_HELM

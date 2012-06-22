@@ -1,0 +1,8 @@
+name Bolstering_Pendant
+dexterity 192
+poisonResis 31
+strength 68
+ItemType IT_AMULET
+cost 500000
+attackSpeed 6
+healthGlobes 1876

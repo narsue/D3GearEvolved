@@ -1,0 +1,8 @@
+name Claw_Purifier
+armour 280
+intelligence 168
+dexterity 209
+vitality 158
+poisonResis 40
+ItemType IT_GLOVES
+cost 350000

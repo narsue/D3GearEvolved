@@ -1,0 +1,12 @@
+name Phalanx_Thrash
+dexterity 130
+ItemType IT_OFFHAND
+SubType ST_SHIELD
+minBlock 2795
+maxBlock 3705
+blockChance 18
+armour 960
+life 13
+cost 70000
+critChance 8.5
+healthGlobes 2259

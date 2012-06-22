@@ -1,0 +1,9 @@
+name Lazarus_Talons
+armour 222
+dexterity 119
+vitality 61
+poisonResis 34
+allResis 35
+lifePerSec 101
+indestructible
+ItemType IT_BOOTS

@@ -1,0 +1,7 @@
+name Renown_Craft
+dexterity 199
+vitality 139
+poisonResis 43
+strength 67
+ItemType IT_AMULET
+cost 360000

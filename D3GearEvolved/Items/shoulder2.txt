@@ -1,0 +1,6 @@
+name Marvelous_Archon_Spaulders_Of_Pain
+dexterity 190
+armour 380
+intelligence 90
+ItemType IT_SHOULDER
+cost 5000000

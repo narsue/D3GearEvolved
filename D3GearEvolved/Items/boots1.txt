@@ -1,0 +1,9 @@
+name Climber's_Prospect
+armour 219
+dexterity 130
+vitality 20
+poisonResis 32
+moveSpeed 12
+magicFind 11
+lifePerSecond 90
+ItemType IT_BOOTS

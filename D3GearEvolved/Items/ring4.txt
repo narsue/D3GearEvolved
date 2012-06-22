@@ -1,0 +1,7 @@
+name Swift_Ring
+dexterity 68
+ItemType IT_RING
+attackSpeed 12
+critChance 4
+cost 8000000
+socket 1

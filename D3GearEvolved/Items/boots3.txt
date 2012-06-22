@@ -1,0 +1,9 @@
+name Vagrant_Zephyr
+armour 480
+dexterity 208
+intelligence 66
+strength 86
+poisonResis 54
+allResis 42
+ItemType IT_BOOTS
+cost 500000

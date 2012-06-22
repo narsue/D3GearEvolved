@@ -1,0 +1,8 @@
+name Nobility_Ash
+dexterity 114
+critDamage 63
+attackSpeed 7
+ItemType IT_AMULET
+cost 8000000
+magicFind 30
+fireResis 45

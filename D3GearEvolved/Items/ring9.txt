@@ -1,0 +1,9 @@
+name Damned_Wheel
+ItemType IT_RING
+minDamage 17
+maxDamage 32
+critChance 4.5
+critDamage 31
+cost 33000000
+dexterity 85
+fireResis 50

@@ -1,0 +1,10 @@
+name Devil's_Omen
+dexterity 89
+socket 1
+critDamage 21
+critChance 2
+attackSpeed 11
+intelligence 63
+vitality 32
+ItemType IT_AMULET
+cost 5000000

@@ -1,0 +1,10 @@
+name Pack_Rat's_Talent
+armour 234
+dexterity 74
+strength 58
+vitality 63
+poisonResis 44
+resisAll 51
+magicFind 12
+pickupRange 7
+ItemType IT_BELT

@@ -1,0 +1,8 @@
+name Wicked_Guard
+dexterity 134
+vitality 73
+armour 320
+fireResis 47
+ItemType IT_SHOULDER
+lifePerSec 113
+healthGlobes 2129

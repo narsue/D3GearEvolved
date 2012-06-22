@@ -1,0 +1,7 @@
+name Sling_Dispute
+armour 200
+dexterity 86
+poisonResis 48
+resisAll 61
+goldFind 17
+ItemType IT_BRACERS

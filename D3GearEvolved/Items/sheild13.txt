@@ -1,0 +1,11 @@
+name Partisan_root
+dexterity 131
+vitality 144
+ItemType IT_OFFHAND
+SubType ST_SHIELD
+minBlock 2795
+maxBlock 3705
+blockChance 18
+armour 1020
+cost 700000
+critChance 8

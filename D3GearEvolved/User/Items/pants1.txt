@@ -1,0 +1,7 @@
+name Vegabond's_Root
+armour 356
+vitality 146
+poisonResis 40
+resisAll 45
+pickupRange 5
+ItemType IT_PANTS

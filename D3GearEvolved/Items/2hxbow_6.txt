@@ -1,0 +1,8 @@
+name Ranger's_Run
+minDamage 827
+maxDamage 1290
+attackSpeed 1.1
+cost 10000000
+type x
+ItemType IT_WEAPON
+critDamage 50

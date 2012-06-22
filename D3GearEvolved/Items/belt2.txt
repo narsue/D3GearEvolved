@@ -1,0 +1,8 @@
+name Thief's_Brace
+armour 286
+dexterity 191
+coldResis 44
+allResis  61
+strength 57
+ItemType IT_BELT
+cost 5000000

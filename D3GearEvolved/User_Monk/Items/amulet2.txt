@@ -1,0 +1,4 @@
+name Raiding_Amulet_Of_Cruelty
+dexterity 84
+attackSpeed 6
+ItemType IT_AMULET

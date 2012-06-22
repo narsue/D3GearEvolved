@@ -1,0 +1,9 @@
+name Acute_Ragers
+armour 236
+dexterity 158
+critChance 6
+intelligence 33
+resisAll 67
+magicFind 18
+ItemType IT_BRACERS
+cost 50000000

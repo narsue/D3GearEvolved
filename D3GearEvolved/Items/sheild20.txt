@@ -1,0 +1,13 @@
+name Riveted_Dam
+dexterity 60
+intelligence 67
+ItemType IT_OFFHAND
+SubType ST_SHIELD
+minBlock 3706
+maxBlock 4705
+blockChance 18
+armour 1445
+cost 1000000
+poisonResis 54
+critChance 6
+indestructible

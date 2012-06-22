@@ -1,0 +1,8 @@
+name Command_Scorn
+dexterity 164
+vitality 50
+critChance 6
+armour 262
+ItemType IT_HELM
+magicFind 14
+cost 10000000

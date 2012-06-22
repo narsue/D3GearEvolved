@@ -1,0 +1,9 @@
+name Rapid_Traps
+armour 280
+dexterity 142
+poisonResis 31
+allResis 61
+attackSpeed 9
+ItemType IT_GLOVES
+cost 2000000
+lifePerSec 73

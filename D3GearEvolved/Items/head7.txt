@@ -1,0 +1,11 @@
+name Andariel's_Visage
+dexterity 121
+intelligence 49
+strength 37
+poisonResist 33
+lifePerSecond 82
+attackSpeed 6
+critChance 3
+armour 275
+ItemType IT_HELM
+cost 1000000

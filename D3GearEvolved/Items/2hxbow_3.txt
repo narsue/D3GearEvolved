@@ -1,0 +1,8 @@
+name Bullseye_Surge
+minDamage 632
+maxDamage 1001
+attackSpeed 1.36
+cost 1000000
+type x
+ItemType IT_WEAPON
+socket 1

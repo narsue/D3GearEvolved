@@ -1,0 +1,10 @@
+name Gluttonous_Shot
+minDamage 651
+maxDamage 1086
+attackSpeed 1.1
+cost 10000000
+vitality 94
+dexterity 259
+type x
+ItemType IT_WEAPON
+socket 1

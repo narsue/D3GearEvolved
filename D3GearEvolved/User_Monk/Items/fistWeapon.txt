@@ -1,0 +1,11 @@
+name Temple_Gambit
+minDamage 252
+maxDamage 766
+attackSpeed 1.4
+intelligence 63
+ItemType IT_WEAPON
+type m
+SubType ST_MONK_FIST_WEAPON
+socket 1
+lifeOnHit 461
+vitality 62

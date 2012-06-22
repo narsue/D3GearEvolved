@@ -1,0 +1,9 @@
+name Vice_Helm
+dexterity 150
+intelligence 83
+strength 76
+poisonResist 44
+vitality 63
+armour 347
+ItemType IT_HELM
+cost 1000000

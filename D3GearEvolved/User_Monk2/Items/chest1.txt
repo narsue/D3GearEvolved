@@ -1,0 +1,7 @@
+name Noble_Aim
+armour 352
+dexterity 75
+vitality 128
+resisAll 57
+socket 2
+ItemType IT_CHEST

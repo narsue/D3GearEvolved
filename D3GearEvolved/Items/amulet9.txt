@@ -1,0 +1,7 @@
+name Rapid_focus
+dexterity 193
+lifeOnHit 156
+strength 46
+ItemType IT_AMULET
+cost 2000000
+attackSpeed 6

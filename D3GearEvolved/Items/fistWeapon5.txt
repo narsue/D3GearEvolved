@@ -1,0 +1,9 @@
+name Blessed_Breach
+minDamage 554
+maxDamage 1073
+attackSpeed 1.2
+ItemType IT_WEAPON
+type m
+cost 2600000
+strength 197
+dexterity 182

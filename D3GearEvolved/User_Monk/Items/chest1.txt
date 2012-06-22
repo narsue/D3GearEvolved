@@ -1,0 +1,7 @@
+name Vanguard_Reprieve
+armour 360
+dexterity 79
+poisonResis 49
+resisAll 62
+ItemType IT_CHEST
+healthGlobes 2932

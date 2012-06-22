@@ -1,0 +1,6 @@
+name Reflective_Plates
+strength 38
+dexterity 126
+armour 248
+resisAll 40
+ItemType IT_SHOULDER

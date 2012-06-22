@@ -1,0 +1,9 @@
+name Magnus_Poise
+dexterity 132
+strength 163
+armour 320
+poisonResis 46
+allResis 45
+ItemType IT_SHOULDER
+cost 1000000
+intelligence 35

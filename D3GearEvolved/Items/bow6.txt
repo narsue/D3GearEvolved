@@ -1,0 +1,11 @@
+name Null_Bolt
+minDamage 359
+maxDamage 974
+attackSpeed 1.4
+intelligence 80
+critDamage 63
+cost 2000000
+type b
+ItemType IT_WEAPON
+socket 1
+vitality 46

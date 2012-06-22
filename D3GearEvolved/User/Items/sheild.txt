@@ -1,0 +1,11 @@
+name Dire_Rampart
+dexterity 58
+vitality 124
+poisonResis 36
+resisAll 44
+ItemType IT_OFFHAND
+SubType ST_SHIELD
+minBlock 1550
+maxBlock 1959
+blockChance 16
+armour 763

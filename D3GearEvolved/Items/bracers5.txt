@@ -1,0 +1,8 @@
+name Sling_Mutiny
+armour 388
+dexterity 80
+strength 59
+resisAll 66
+poisonResis 42
+ItemType IT_BRACERS
+cost 300000

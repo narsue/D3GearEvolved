@@ -1,0 +1,10 @@
+name Sage's_Seekers
+armour 463
+dexterity 201
+intelligence 66
+fireResis 45
+allResis 52
+moveSpeed 12
+ItemType IT_BOOTS
+set Sage's_Wisdom
+cost 7000000

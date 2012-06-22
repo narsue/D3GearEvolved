@@ -1,0 +1,10 @@
+name Pincer_End
+dexterity 165
+vitality 88
+poisonResist 45
+attackSpeed 8
+armour 280
+pickupRange 7
+meleeHit 791
+ItemType IT_GLOVES
+cost 2000000

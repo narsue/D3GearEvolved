@@ -1,0 +1,12 @@
+name Prudent_Anvil
+dexterity 31
+ItemType IT_OFFHAND
+SubType ST_SHIELD
+minBlock 3706
+maxBlock 4705
+blockChance 13
+armour 1606
+life 9
+cost 440000
+poisonResis 46
+vitality 58

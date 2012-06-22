@@ -1,0 +1,5 @@
+name Valiant_Archon_Faulds_Of_Pain
+armour 430
+dexterity 146
+vitality 78
+ItemType IT_PANTS

@@ -1,0 +1,7 @@
+name Severe_Star
+dexterity 84
+ItemType IT_RING
+attackSpeed 16
+critChance 4.5
+cost 20000000
+life 5

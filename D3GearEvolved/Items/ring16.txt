@@ -1,0 +1,8 @@
+name Destiny_Denial
+ItemType IT_RING
+dexterity 72
+intelligence 34
+cost 500000
+poisonResis 31
+lifeOnHit 114
+armour 208

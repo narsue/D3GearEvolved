@@ -1,0 +1,12 @@
+name Tournament_Gift
+dexterity 146
+vitality 57
+critChance 10
+ItemType IT_OFFHAND
+SubType ST_SHIELD
+minBlock 3706
+maxBlock 4706
+blockChance 12
+armour 1191
+cost 1200000
+poisonResis 51

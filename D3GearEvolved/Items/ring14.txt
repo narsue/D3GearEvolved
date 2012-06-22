@@ -1,0 +1,8 @@
+name Aurora_Harvest
+ItemType IT_RING
+dexterity 69
+lifeOnHit 93
+attackSpeed 7
+cost 450000
+minDamage 12
+maxDamage 25

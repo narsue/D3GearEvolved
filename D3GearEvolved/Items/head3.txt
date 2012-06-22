@@ -1,0 +1,8 @@
+name Thief's_Dome
+dexterity 160
+intelligence 206
+critChance 4.5
+armour 360
+ItemType IT_HELM
+coldResis 47
+cost 3000000

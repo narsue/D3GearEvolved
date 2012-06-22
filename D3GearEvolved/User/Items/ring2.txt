@@ -1,0 +1,4 @@
+name Assailing_Ring_Of_Pain
+dexterity 71
+attackSpeed 7
+ItemType IT_RING

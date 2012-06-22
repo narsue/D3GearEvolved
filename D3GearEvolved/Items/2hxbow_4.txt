@@ -1,0 +1,11 @@
+name Hawk_Lock
+minDamage 638
+maxDamage 1096
+attackSpeed 1.1
+cost 5000000
+intelligence 51
+vitality 32
+critDamage 93
+type x
+ItemType IT_WEAPON
+socket 1

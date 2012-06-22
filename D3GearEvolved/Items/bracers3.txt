@@ -1,0 +1,6 @@
+name Flaying_Razorspikes_Of_Pain
+armour 231
+dexterity 100
+critChance 6
+ItemType IT_BRACERS
+cost 3000000

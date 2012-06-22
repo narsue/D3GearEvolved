@@ -1,0 +1,9 @@
+name Wing_Insult
+dexterity 155
+intelligence 58
+attackSpeed 15
+critChance 8.5
+indestructible
+ItemType IT_OFFHAND_QUIVER
+cost 2000000
+SubType ST_QUIVER

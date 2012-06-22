@@ -1,0 +1,8 @@
+name War_shelter
+armour 238
+dexterity 148
+vitality 48
+allResis  53
+poisonResis 42
+ItemType IT_BELT
+cost 540000

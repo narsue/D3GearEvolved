@@ -1,0 +1,9 @@
+name Unstoppable_Grasp
+armour 280
+strength 77
+dexterity 205
+vitality 148
+allResis 46
+lifePerSec 178
+ItemType IT_GLOVES
+cost 1000000

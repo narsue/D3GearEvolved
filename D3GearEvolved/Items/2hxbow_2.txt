@@ -1,0 +1,9 @@
+name Falcon_Chasm
+minDamage 654
+maxDamage 1093
+attackSpeed 1.1
+cost 1600000
+type x
+ItemType IT_WEAPON
+socket 1
+dexterity 178

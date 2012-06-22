@@ -1,0 +1,8 @@
+name Assassin's_Deflectors
+armour 253
+dexterity 98
+poisonResis 55
+resisAll 38
+ItemType IT_BRACERS
+cost 400000
+meleeReduce 6

@@ -1,0 +1,5 @@
+class monk
+seizeTheInitative true
+oneWithEverything true
+mantraOfEvasionHardTarget true
+keenEye true

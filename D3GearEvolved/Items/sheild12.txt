@@ -1,0 +1,13 @@
+name Myrmidon_Prism
+dexterity 140
+vitality 62
+physicalResis 48
+ItemType IT_OFFHAND
+SubType ST_SHIELD
+minBlock 3706
+maxBlock 4706
+blockChance 10
+armour 1139
+cost 500000
+critChance 9.5
+lifePerSec 69

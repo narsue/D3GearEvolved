@@ -1,0 +1,9 @@
+name Stout_Raiments
+armour 670
+dexterity 84
+intelligence 82
+poisonResis 43
+resisAll 78
+ItemType IT_CHEST
+cost 130000
+socket 1

@@ -1,0 +1,9 @@
+name Scout_Chasm
+armour 315
+dexterity 71
+vitality 169
+fireResis 40
+socket 2
+strength 56
+intelligence 41
+ItemType IT_PANTS

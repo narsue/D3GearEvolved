@@ -1,0 +1,10 @@
+name Marksman's_Hope
+minDamage 285
+maxDamage 1112
+attackSpeed 1.71
+dexterity 179
+critDamage 55
+cost 200000000
+type b
+ItemType IT_WEAPON
+socket 1

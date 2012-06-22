@@ -1,0 +1,9 @@
+name White_Cirque
+armour 240
+dexterity 119
+strength 166
+intelligence 88
+allResis  62
+poisonResis 38
+ItemType IT_BELT
+cost 100000

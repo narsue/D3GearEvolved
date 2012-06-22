@@ -1,0 +1,7 @@
+name Loyalty_Mayhem
+ItemType IT_RING
+attackSpeed 17
+critDamage 32
+cost 7000000
+lifeAfterKill 454
+magicFind 14

@@ -1,0 +1,11 @@
+name Intrepid_Stand
+dexterity 121
+life 10
+resisAll 51
+intelligence 23
+ItemType IT_OFFHAND
+SubType ST_SHIELD
+minBlock 1960
+maxBlock 2794
+blockChance 14
+armour 891

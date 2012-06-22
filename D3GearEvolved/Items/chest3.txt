@@ -1,0 +1,9 @@
+name Shadow_Guise
+armour 720
+dexterity 87
+intelligence 82
+poisonResis 45
+resisAll 61
+ItemType IT_CHEST
+cost 800000
+lifePerSec 55

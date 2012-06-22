@@ -1,0 +1,7 @@
+name Savage_Irons
+armour 161
+dexterity 111
+strength 129
+intelligence 75
+critChance 3.5
+ItemType IT_BRACERS

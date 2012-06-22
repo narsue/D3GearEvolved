@@ -1,0 +1,8 @@
+name Death_Wraps
+critDamage 50
+armour 328
+dexterity 194
+strength 54
+lifePerSec 160
+ItemType IT_GLOVES
+cost 1300000

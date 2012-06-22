@@ -1,0 +1,8 @@
+name Precious_Rage
+ItemType IT_RING
+minDamage 13
+maxDamage 24
+cost 300000
+lifeOnHit 90
+armour 142
+attackSpeed 7

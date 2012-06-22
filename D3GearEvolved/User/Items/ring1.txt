@@ -1,0 +1,8 @@
+name Antique_Style
+dexterity 76
+maxDamage 22
+intelligence 73
+poisonResis 45
+lifeOnHit 86
+healthGlobes 4814
+ItemType IT_RING

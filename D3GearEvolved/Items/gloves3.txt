@@ -1,0 +1,9 @@
+name Pugilist's_Reaper
+strength 72
+intelligence 62
+critDamage 20
+attackSpeed 7
+critChance 6.5
+armour 223
+ItemType IT_GLOVES
+cost 2000000

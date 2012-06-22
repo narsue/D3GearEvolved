@@ -1,0 +1,12 @@
+name Battle_Denail
+dexterity 144
+vitality 39
+physicalResis 39
+ItemType IT_OFFHAND
+SubType ST_SHIELD
+minBlock 3706
+maxBlock 4706
+blockChance 16
+armour 1166
+cost 500000
+critChance 8.5

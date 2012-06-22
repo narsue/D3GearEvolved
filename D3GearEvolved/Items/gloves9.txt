@@ -1,0 +1,8 @@
+name Cavalry_Resort
+armour 476
+intelligence 83
+dexterity 150
+allResis 60
+attackSpeed 8
+ItemType IT_GLOVES
+cost 1000000

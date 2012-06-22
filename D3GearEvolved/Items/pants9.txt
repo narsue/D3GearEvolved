@@ -1,0 +1,9 @@
+name Proven_Links
+armour 360
+dexterity 129
+intelligence 40
+coldResis 34
+allResis 69
+ItemType IT_PANTS
+cost 565000
+vitality 85

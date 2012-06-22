@@ -1,0 +1,12 @@
+name Harbor_Downfall
+dexterity 68
+socket 1
+ItemType IT_OFFHAND
+SubType ST_SHIELD
+minBlock 3706
+maxBlock 4706
+blockChance 15
+armour 1166
+cost 750000
+life 12
+critChance 8

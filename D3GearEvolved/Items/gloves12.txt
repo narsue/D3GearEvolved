@@ -1,0 +1,9 @@
+name Reach_Zephyr
+armour 252
+strength 83
+intelligence 123
+dexterity 192
+vitality 124
+poisonResis 44
+ItemType IT_GLOVES
+cost 500000

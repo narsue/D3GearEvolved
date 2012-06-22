@@ -1,0 +1,8 @@
+name Stout_Braces
+armour 733
+dexterity 76
+vitality 139
+poisonResis 49
+allResis 50
+ItemType IT_PANTS
+cost 750000

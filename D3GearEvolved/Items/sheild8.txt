@@ -1,0 +1,11 @@
+name Myrmidon_Spite
+dexterity 154
+strength 76
+ItemType IT_OFFHAND
+SubType ST_SHIELD
+minBlock 3706
+maxBlock 4706
+blockChance 20
+armour 1117
+cost 800000
+allResis 76

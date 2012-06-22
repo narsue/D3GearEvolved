@@ -1,0 +1,7 @@
+name Glory_Blame
+ItemType IT_RING
+maxDamage 19
+critChance 4
+critDamage 32
+attackSpeed 16
+cost 25000000

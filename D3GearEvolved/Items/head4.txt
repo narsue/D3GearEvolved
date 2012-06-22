@@ -1,0 +1,9 @@
+name Iron_Adomination
+dexterity 119
+strength 34
+vitality 84
+critChance 6
+armour 445
+ItemType IT_HELM
+coldResis 29
+cost 1300000

@@ -1,0 +1,8 @@
+name Violent_stand
+armour 290
+dexterity 240
+allResis 55
+poisonResis 46
+strength 36
+ItemType IT_BOOTS
+cost 900000

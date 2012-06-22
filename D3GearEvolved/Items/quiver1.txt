@@ -1,0 +1,9 @@
+name Cunning_Razors
+dexterity 124
+vitality 46
+attackSpeed 13
+hatredRegen 0.95
+critChance 4.5
+socket 1
+ItemType IT_OFFHAND_QUIVER
+SubType ST_QUIVER

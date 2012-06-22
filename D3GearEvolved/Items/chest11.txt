@@ -1,0 +1,9 @@
+name Paragon's_Defiance
+armour 360
+dexterity 118
+vitality 66
+poisonResis 41
+socket 3
+strength 40
+ItemType IT_CHEST
+cost 390000

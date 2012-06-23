@@ -38,9 +38,6 @@
     <ClInclude Include="BehaviourArchive.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="definitions.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
     <ClInclude Include="Gene.h">
       <Filter>Source Files</Filter>
     </ClInclude>

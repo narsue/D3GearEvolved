@@ -8,8 +8,7 @@ using namespace std;
 #define CROSS_OVER_PROB 20
 #define MUTATION_PROB 10
 #define NO_ELITES 6
-#include "definitions.h"
-#include "userInput.h"
+#include "UserInput.h"
 class Phenotype
 {
 	private:
@@ -48,7 +47,7 @@ class Phenotype
 
 					if (ct == CLASS_TYPE::CT_MONK || ct == CLASS_TYPE::CT_DEMON_HUNTER)
 						totalDex +=genes[i].item->getDex();
-					else if (ct == CLASS_TYPE::CT_WIZARD || ct == CLASS_TYPE::CT_WIZARD)
+					else if (ct == CLASS_TYPE::CT_WIZARD || ct == CLASS_TYPE::CT_WITCH_DOCTOR)
 						totalDex +=genes[i].item->getInt();
 					else if (ct == CLASS_TYPE::CT_BARBARIAN)
 						totalDex +=genes[i].item->getStrength();

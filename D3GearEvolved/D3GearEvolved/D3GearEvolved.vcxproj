@@ -88,7 +88,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BehaviourArchive.h" />
-    <ClInclude Include="definitions.h" />
     <ClInclude Include="Gene.h" />
     <ClInclude Include="Item.h" />
     <ClInclude Include="ItemManager.h" />

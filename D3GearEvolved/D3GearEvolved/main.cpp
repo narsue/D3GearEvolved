@@ -5,6 +5,7 @@ using namespace std;
 #pragma comment(lib,"winmm.lib")
 int main()
 {
+	printf("Running D3GearEvolved Version 0.1\n\n");
 	printf("Currently Equipped\n");
 	BehaviourArchive::getInstance()->printCurrentEquipped();
 
